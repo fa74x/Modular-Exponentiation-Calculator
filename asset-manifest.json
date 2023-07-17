@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/modular-exponentiation-calculator/static/css/main.2caa72c4.css",
+    "main.js": "/modular-exponentiation-calculator/static/js/main.cc713be2.js",
+    "static/media/lightmode.png": "/modular-exponentiation-calculator/static/media/lightmode.d96c2bb1943ed94c6f0f.png",
+    "index.html": "/modular-exponentiation-calculator/index.html",
+    "main.2caa72c4.css.map": "/modular-exponentiation-calculator/static/css/main.2caa72c4.css.map",
+    "main.cc713be2.js.map": "/modular-exponentiation-calculator/static/js/main.cc713be2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2caa72c4.css",
+    "static/js/main.cc713be2.js"
+  ]
+}
